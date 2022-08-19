@@ -1,6 +1,6 @@
 # IntelliMachine
 
-Link to the application: https://share.streamlit.io/khusheekapoor/intellimachine/main/app.py
+Link to the application: https://shrtco.de/intellimachine
 
 ## Idea
 
