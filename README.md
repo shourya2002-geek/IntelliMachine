@@ -1,6 +1,9 @@
 # IntelliMachine
 
+The website has been hosted on my project partner Khushee Kapoor's domain name.
+
 Link to the application: https://shrtco.de/intellimachine
+
 
 ## Idea
 
